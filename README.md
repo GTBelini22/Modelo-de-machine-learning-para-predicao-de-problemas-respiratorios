@@ -12,7 +12,8 @@
 
 Arquivos do Jupyter notebook para a limpeza de dados do dataset do governo sobre doenças respiratórias
 
-
+# Como usar
+- utilize primeiramente do comando - pip install -r requirements.txt
 
 # Tecnologias utilizadas / Bibliotecas
 - Pandas
