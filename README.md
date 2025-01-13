@@ -23,9 +23,7 @@ Arquivos do Jupyter notebook para a limpeza de dados do dataset do governo sobre
 # Autores
 
 Gustavo Torres Belini
-https://www.linkedin.com/in/gustavo-belini2200224055/
+https://www.linkedin.com/in/gustavo-belini/
 
 Danilo da Silva Ataide
-
-José Guilherme Lima
-
+https://www.linkedin.com/in/danilo-ataide/
