@@ -8,17 +8,33 @@
     
 </div><br>
 
-# Sobre o repositório
+# Sobre o Trabalho
+- Este trabalho foi realizado para um Artigo, onde o foco foi mostrar o valor de machine Learning na área da saúde, ademais, foi publicado na **11ª Conferência Ibero-Americana em Computação Aplicada 2024**
 
-Arquivos do Jupyter notebook para a limpeza de dados do dataset do governo sobre doenças respiratórias
+### Resumo
+
+A Síndrome Respiratória Aguda Grave (SRAG) representa um desafio persistente para a saúde pública,
+especialmente em contextos pandêmicos, como observado na COVID-19. Este estudo explora o uso de técnicas
+de Machine Learning para a predição e diagnóstico de doenças respiratórias, visando otimizar o gerenciamento
+de recursos e o tratamento de pacientes. Foram aplicados modelos de aprendizado supervisionado, incluindo
+Regressão Logística, KNN, Naive Bayes, SVM, Gradient Boosting, Árvores de Decisão e Floresta Aleatória,
+com avaliação de métricas como AUC-ROC, F-medida, precisão, revocação e acurácia. O Gradient Boosting
+destacou-se com os melhores resultados em termos de precisão e eficiência computacional. A metodologia
+CRISP-DM orientou a coleta, tratamento e modelagem dos dados, garantindo rigor no processo. Esta pesquisa
+reforça o papel da Inteligência Artificial na saúde, demonstrando a eficácia de modelos preditivos no
+monitoramento e controle de SRAG.
 
 # Como usar
 - utilize primeiramente do comando - pip install -r requirements.txt
+assim será baixado todas as dependências necessárias
 
 # Tecnologias utilizadas / Bibliotecas
 - Pandas
 - Numpy
 - Jupyter notebook
+- Sckit-learn
+- Seaborn
+- Itertools
 
 
 # Autores
